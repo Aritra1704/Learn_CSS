@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+}
+
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+    padding: 1rem;
+}
+
+main {
+    width: 50vw;
+    background-color: skyblue;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 2rem;
+    width: 40ch;
+    /* font-size: 32px; */
+}
